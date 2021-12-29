@@ -1,10 +1,10 @@
 <div style="  padding: 10px;text-align: center;" class='row'>
-<div style="float:left;width: 8%;" class='column'><a href="https://datos.gov.co/"><img alt="Logo DataSandbox"  src="https://github.com/DataSandbox/Plantilla-Publicacion-Resultados/raw/main/App/logdat.JPG" style="width: 100px;"></a></div>
-    <div style="float:left;width: 84%;" class='column'>
+<div style="float:left;width: 10%;" class='column'><a href="https://datos.gov.co/"><img alt="Logo DataSandbox"  src="https://github.com/DataSandbox/Plantilla-Publicacion-Resultados/raw/main/App/logdat.JPG" style="width: 100px;"></a></div>
+    <div style="float:left;width: 80%;" class='column'>
         <h1>EXTRACCIÓN DE INFORMACIÓN EN DOCUMENTOS DE PROCESOS DE CONTRATACIÓN PÚBLICA
         </h1> 
     </div>
- <div style="float:left;width: 8%;" class='column'><a href="https://www.colombiacompra.gov.co/" target="_blank"><img class="float-right" src="https://www.colombiacompra.gov.co/sites/cce_public/files/files_2020/logo_ancp_cce_web.png" style="width: 200px;"></a></div>
+ <div style="float:left;width: 10%;" class='column'><a href="https://www.colombiacompra.gov.co/" target="_blank"><img class="float-right" src="https://raw.githubusercontent.com/ANCP-CCE-Analitica/datasandbox-extraccion/main/logo_ancp_cce_web.png?token=AW55IIJ4OBWC5OXSZ3P7TI3BZSMSG" style="width: 200px;"></a></div>
     </div>
 
 
