@@ -1,6 +1,6 @@
 <img src="/App/logdat.JPG" alt="My cool logo"/>
 
-# Informe final del modelo
+# Informe final de la implementación
 _Informe que describe el modelo final que se entregará, generalmente compuesto por uno o más de los modelos construidos durante la vida del proyecto_
 
 ## Enfoque analítico
