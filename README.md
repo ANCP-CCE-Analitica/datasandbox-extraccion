@@ -4,7 +4,7 @@
         <h1>EXTRACCIÓN DE INFORMACIÓN EN DOCUMENTOS DE PROCESOS DE CONTRATACIÓN PÚBLICA
         </h1> 
     </div>
- <div style="float:left;width: 10%;" class='column'><a href="https://www.colombiacompra.gov.co/" target="_blank"><img class="float-right" src="https://raw.githubusercontent.com/ANCP-CCE-Analitica/datasandbox-extraccion/main/logo_ancp_cce_web.png?token=AW55IIJ4OBWC5OXSZ3P7TI3BZSMSG" style="width: 200px;"></a></div>
+ <div style="float:left;width: 10%;" class='column'><a href="https://www.colombiacompra.gov.co/" target="_blank"><img class="float-right" src="https://raw.githubusercontent.com/ANCP-CCE-Analitica/datasandbox-extraccion/main/logo_ancp_cce_web.png" style="width: 200px;"></a></div>
     </div>
 
 
@@ -22,7 +22,7 @@ Para corregir estos problemas de calidad, en la actualidad se realiza una depura
 **Desarrollar una herramienta de extracción y estructuración de la información contenida en los documentos que soportan los procesos de contratación pública que se suscriben en la plataforma SECOP I.**
 
 - [x] Automatizar la extracción de texto de los documentos soporte de los procesos de contratación pública cargados en el SECOP I.
-- [x] Aplicar tareas de reconocimiento de las variables correspondientes a datos específicos usando modelos de lenguaje previamente entrenados (BERT, Cognitive Services, entre otros) y estructurarlos con el fin de contrastarlos con la información previamente digitada por los usuarios del SECOP.
+- [x] Aplicar tareas de reconocimiento de las variables correspondientes a datos específicos usando modelos de lenguaje previamente entrenados (BERT, Cognitive Services, entre otros) y [X] estructurarlos con el fin de contrastarlos con la información previamente digitada por los usuarios del SECOP.
 - [ ] Automatizar la búsqueda de datos erroneos en la plataforma y reportar posibles banderas rojas.
 - [ ] Definir métricas que evalúen el desempeño de la herramienta frente a la calidad de los datos contenidos en los documentos y frente a la consistencia de los datos ingresados por el usuario.
 - [x] Diseñar un tablero de control que contenga métricas de desempeño de la herramienta de  extracción y estructuración de información.
